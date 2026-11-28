@@ -1,8 +1,6 @@
 <template>
   <q-page padding>
-    <div class="text-h4 q-mb-md">
-      Version Control + Docker Demo (Quasar)
-    </div>
+    <div class="text-h4 q-mb-md">Version Control + Docker Demo (Quasar)</div>
 
     <q-card class="q-mb-md">
       <q-card-section>

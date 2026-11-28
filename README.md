@@ -8,7 +8,7 @@ Lab 1.1 สร้าง Quasar SPA แสดงขั้นตอน Git แล�
 
 ```sh
 cd frontend
-npm ci
+npm ci --legacy-peer-deps
 npm run dev
 ```
 
